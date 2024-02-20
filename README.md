@@ -1,0 +1,1 @@
+Zrcadlo pro české foretunky.
