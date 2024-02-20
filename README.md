@@ -1,1 +1,1 @@
-Zrcadlo pro české foretunky.
+Zrcadlo pro české fortunky.
